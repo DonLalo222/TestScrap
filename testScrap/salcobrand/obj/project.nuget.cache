@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDTE4rCZJqUA82p7pH2MrWJHsq42RkFrU/a5vuqQNy1ASruhoQfp6aIlAi6wArZhElaCQ2h2G0H8tZ86JblbxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gvasq\\Desktop\\PROYECTOS\\Proyectos\\netcore\\testScrap\\salcobrand\\salcobrand.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gvasq\\.nuget\\packages\\htmlagilitypack\\1.11.30\\htmlagilitypack.1.11.30.nupkg.sha512",
+    "C:\\Users\\gvasq\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0-preview.1.21102.12\\microsoft.extensions.dependencyinjection.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\gvasq\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.dependencyinjection.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\gvasq\\.nuget\\packages\\microsoft.extensions.http\\6.0.0-preview.1.21102.12\\microsoft.extensions.http.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\gvasq\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0-preview.1.21102.12\\microsoft.extensions.logging.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\gvasq\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0-preview.1.21102.12\\microsoft.extensions.logging.abstractions.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\gvasq\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-preview.1.21102.12\\microsoft.extensions.options.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\gvasq\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.1.21102.12\\microsoft.extensions.primitives.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\gvasq\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0-preview.1.21102.12\\system.diagnostics.diagnosticsource.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\gvasq\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.1.21102.12\\system.runtime.compilerservices.unsafe.6.0.0-preview.1.21102.12.nupkg.sha512"
+  ],
+  "logs": []
+}

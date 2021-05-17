@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gvasq\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gvasq\\.nuget\\packages"
+    ]
+  }
+}

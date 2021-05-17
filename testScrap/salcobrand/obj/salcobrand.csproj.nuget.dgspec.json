@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gvasq\\Desktop\\PROYECTOS\\Proyectos\\netcore\\testScrap\\salcobrand\\salcobrand.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gvasq\\Desktop\\PROYECTOS\\Proyectos\\netcore\\testScrap\\salcobrand\\salcobrand.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gvasq\\Desktop\\PROYECTOS\\Proyectos\\netcore\\testScrap\\salcobrand\\salcobrand.csproj",
+        "projectName": "salcobrand",
+        "projectPath": "C:\\Users\\gvasq\\Desktop\\PROYECTOS\\Proyectos\\netcore\\testScrap\\salcobrand\\salcobrand.csproj",
+        "packagesPath": "C:\\Users\\gvasq\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gvasq\\Desktop\\PROYECTOS\\Proyectos\\netcore\\testScrap\\salcobrand\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gvasq\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.30, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0-preview.1.21102.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
